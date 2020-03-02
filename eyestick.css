@@ -25,18 +25,7 @@
 }
 
 .custom .bumper:after, .custom .button:after{
-    position: absolute;
-    display: inline-block;
-    background: black;
-    border: 2px solid hsla(193, 97%, 27%, 1);
-    color: hsla(193, 97%, 27%, 1);
-    font-size: 12px;
-    font-weight: 500;
-    padding: 10px;
-    border-radius: 25px;
-    text-align: center;
-    white-space: nowrap;
-    transition: 5s all linear
+   
 }
 
 /* - END COMMON STUFF - */
@@ -105,8 +94,7 @@
 .
 }
 /* FA Button when set to off */
-.custom .bumper.right.pressed:after{
-    content: "FA OFF";
+.
 }
 
 /*Chaff Button*/
