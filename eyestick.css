@@ -83,7 +83,9 @@ display: none
 }
 
 .custom .abxy{
-   display: none
+  position: absolute;
+    width: 100%;
+    top: 0;
 }
 
 /* FA Button */
