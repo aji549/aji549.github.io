@@ -74,7 +74,8 @@
 
 /*Hiding the unused stick*/
 .custom .stick.right{
-    display: none
+    top: calc(-120px);
+    left: 15px;
 }
 
 .custom .bumpers{
