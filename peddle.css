@@ -18,6 +18,7 @@
     height: 50px;
     background-image: url("aji549.github.io/tougue.png");
     background-size: 50px;
+    background-repeat: no-repeat;
     display: inline-block;
     position: absolute;
     transform: translate(-50%, -50%);
